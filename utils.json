@@ -1,0 +1,17 @@
+{
+    "name": "rest-fields",
+    "deps": {
+        "rest-utility_builder": {
+            "owner": "aramtech", 
+            "repo": "rest-utility_builder",
+            "update_policy": "major",
+            "version": "0.2.0"
+        }
+    },
+    "owner": "aramtech",
+    "private": false,
+    "public_repo": false,
+    "hash": "CVtWe0W_KVlGE_PfYm4foJw38v7hPVu02yL11Rl2QHM",
+    "version": "0.2.1",
+    "description": ""
+}
